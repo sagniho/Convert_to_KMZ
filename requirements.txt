@@ -1,6 +1,3 @@
 streamlit
 simplekml
-base64
 requests
-math
-os
